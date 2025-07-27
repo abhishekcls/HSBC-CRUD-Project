@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# HTML5 project specific
+html5-api-client/css/*.css.map
+html5-api-client/js/*.js.map
